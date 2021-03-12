@@ -157,3 +157,5 @@ Arrange- In this step, one set's the stage for testing, i.e. render component.
 Act- In this step, one creates/grabs the variables/items needed for testing, i.e. finding the header in the document.
 
 Assert- In this step, one validates/declares that the variable/item declared in the Act stage are being found in the Document.
+
+<!-- blah -->
